@@ -70,7 +70,3 @@ EscrowAnalytics/
 │ │
 │ └── config/
 │ ├── db.js # Database connection configuration
-│
-└── tests/
-├── App.test.js
-└── escrowService.test.js
