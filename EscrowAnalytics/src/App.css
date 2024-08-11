@@ -1,3 +1,17 @@
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dashboard.dark-mode {
+  background-color: #1e1e1e;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+}
+
 .App {
   text-align: center;
 }
